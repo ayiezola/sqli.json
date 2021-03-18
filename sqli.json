@@ -4,6 +4,7 @@
 
         "id=",
         "select=",
+	"cid=",
         "report=",
         "role=",
         "update=",
